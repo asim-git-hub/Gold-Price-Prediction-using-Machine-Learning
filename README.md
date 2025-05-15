@@ -1,4 +1,4 @@
-# 🪙 Gold Price Prediction using Machine Learning1
+# 🪙 Gold Price Prediction using Machine Learning
 
 This project uses machine learning to predict the price of gold using various financial indicators such as crude oil prices, S&P 500 index, silver prices, and EUR/USD exchange rates. The model is built using a Random Forest Regressor and evaluated using standard regression metrics.
 

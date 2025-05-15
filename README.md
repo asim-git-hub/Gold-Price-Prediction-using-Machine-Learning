@@ -48,8 +48,6 @@ Gold price is an important economic indicator influenced by various global facto
 - **MAE**: 1.3536
 - **RMSE**: 2.4411
 
-![](images/actual_vs_predicted.png)
-
 ---
 
 ## 🔗 Dataset Link
